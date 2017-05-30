@@ -1,2 +1,3 @@
 This is a commit test with git
 ...and now a custom change
+...and again another change
